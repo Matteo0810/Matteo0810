@@ -20,7 +20,7 @@ One thing I love also is to learn to people web developement
 `Javascript (I use express)`
 
 ## Other langage I use:
-`Java` `C++ (a bit)` `Python`
+`Java` `Python`
 
 ### DataBase I use:
 `MySQL`
