@@ -16,7 +16,7 @@ One thing I love also is to learn to people web developement
 
 ### Back-End
 `PHP`
-`Javascript Back end`
+`Javascript (I use express)`
 
 ### DataBase I use:
 `MySQL`
