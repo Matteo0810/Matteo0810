@@ -1,4 +1,5 @@
 <img src="https://i.imgur.com/LA3TK0j.gif" width="100">
+
 ## About me
 
 I'm Mattéo, I'm french developer since my 13 years old. I love particulary web developement and I like use javascript frameworks. I also like animes and music. 
