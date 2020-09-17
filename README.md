@@ -19,7 +19,7 @@ One thing I love also is to learn to people web developement
 `PHP`
 `Javascript (I use express)`
 
-## Other langage I use:
+### Other langage I use:
 `Java` `Python`
 
 ### DataBase I use:
