@@ -7,7 +7,7 @@ One thing I love also is to learn to people web developement
 
 ## about my skills 💻
 
-### I actually use theses languages:
+### I currently use theses languages:
 
 ### in web developement:
 ### Front-End:
