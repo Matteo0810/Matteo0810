@@ -17,7 +17,7 @@ One thing I love also is to learn to people web developement
 
 ### Back-End:
 `PHP`
-`Javascript (I use express)`
+`Javascript (I use express framework)`
 `Typescript`
 
 ### Other langage I use:
