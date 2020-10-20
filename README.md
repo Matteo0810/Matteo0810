@@ -3,7 +3,7 @@
 ## About me
 
 I'm Mattéo, I'm french developer since my 13 years old. I love particulary web developement and I like use javascript frameworks. I also like animes and music. 
-One thing I love also is to learn to people web developement
+One thing I love <a href="https://github.com/Suwah">Suwaa 💕</a>
 
 ## about my skills 💻
 
