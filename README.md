@@ -19,7 +19,7 @@ I'm Mattéo, I'm a french developer since my 13 years old. I love particulary we
 `Javascript (I use express framework)`
 `Typescript`
 
-### Other langage I use:
+### Other languages I use:
 `Java` `Python`
 
 ### DataBases I know and I use:
