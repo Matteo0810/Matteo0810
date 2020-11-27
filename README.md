@@ -22,7 +22,7 @@ I'm Mattéo, I'm a french developer since my 13 years old. I love particulary we
 ### Other langage I use:
 `Java` `Python`
 
-### DataBase I use:
+### DataBase I know and I use:
 `MySQL`
 `MongoDB`
 `Redis`
