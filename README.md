@@ -15,7 +15,7 @@ I'm Mattéo, I'm a french developer since my 13 years old. I love particulary we
 
 ### Back-End:
 `PHP`
-`Javascript (I use express framework)`
+`Javascript (I use express)`
 `Typescript`
 
 ### Other languages I use:
