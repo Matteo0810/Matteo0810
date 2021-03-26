@@ -1,6 +1,6 @@
 ## About me
 
-I'm Mattéo, I'm a french developer since my 13 years old. I love particulary web developement and I like use javascript frameworks. I also like animes and music. 
+I'm Mattéo, I'm a french developer since my 13 years old. I love particulary web developement and I like using javascript frameworks. I also like animes and music. 
 <a href="https://github.com/Lola0810">Suwaa</a> 💕
 
 ## about my skills 💻
