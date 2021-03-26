@@ -25,3 +25,5 @@ I'm Mattéo, I'm a french developer since my 13 years old. I love particulary we
 `MySQL`
 `MongoDB`
 `Redis`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
