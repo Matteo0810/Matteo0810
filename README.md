@@ -5,8 +5,6 @@ I'm Mattéo, I'm a french developer since my 13 years old. I love particulary we
 
 ## about my skills 💻
 
-### I currently use theses languages:
-
 ### in web developement:
 ### Front-End:
 `HTML`
