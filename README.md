@@ -12,10 +12,11 @@ I'm Mattéo, I'm a french developer since my 13 years old. I love particulary we
 `HTML`
 `CSS`
 `Javascript`
+`ReactJS`
 
 ### Back-End:
 `PHP`
-`Javascript (I use express)`
+`Express JS`
 `Typescript`
 
 ### Other languages I use:
