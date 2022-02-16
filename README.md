@@ -13,7 +13,6 @@ I'm **Mattéo**, I'm a french developer. I'm coding since I'm 13 years old. I lo
   <img src="https://user-images.githubusercontent.com/40558258/140587324-721f993a-6809-4224-b773-23e4d037ee1e.png" width="70" height="70">
   <img src="https://user-images.githubusercontent.com/40558258/140587222-055fe84b-997f-4c02-9ff8-746208964b18.png" width="70" height="70">
   <img src="https://user-images.githubusercontent.com/40558258/140586905-8da0c64f-b7f8-4006-b832-3d4f7e6624ff.png" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/40558258/140587184-793dd97d-cdde-49a9-ba37-0411823c2457.png" width="70" height="70">
   <img src="https://user-images.githubusercontent.com/40558258/140587404-2c4533a4-4a61-4918-b3ad-476739f3d771.png" width="70" height="70">
 </div>
 
