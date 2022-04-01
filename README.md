@@ -1,7 +1,6 @@
 ### 📑About me
 
 I'm **Mattéo**, I'm a french developer. I'm coding since I'm 13 years old. I love particulary **web developement** and I love using **javascript**. I also like animes and music. 
-[Suwaa ❤️](https://github.com/Lola0810)
 
 #
 
