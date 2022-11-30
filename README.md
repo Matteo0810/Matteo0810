@@ -4,7 +4,7 @@ I'm **Mattéo**, I'm a french developer. I'm coding since I'm 13 years old. I lo
 
 #
 
-### Some technology I use 😎
+### Some technology I use
 
 <div>
   <img src="https://user-images.githubusercontent.com/40558258/140586861-df21ed3d-b8e0-4760-b00b-8afd0a167a3b.png" width="70" height="70">
